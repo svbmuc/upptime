@@ -5,10 +5,11 @@ repo: upptime # The name of this repository
 sites:
   - name: 'Südtiroler Volksbühne'
     url: https://www.suedtiroler-volksbuehne.de
+    icon: https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg
 
 status-website:
   baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg
   name: Systemstatus von Südtiroler Volksbühne
   navbar:
     - title: Status
