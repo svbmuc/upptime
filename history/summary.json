@@ -2,7 +2,7 @@
   {
     "name": "Südtiroler Volksbühne",
     "url": "https://www.suedtiroler-volksbuehne.de",
-    "icon": "https://icons.duckduckgo.com/ip3/www.suedtiroler-volksbuehne.de.ico",
+    "icon": "https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg",
     "slug": "suedtiroler-volksbuehne",
     "status": "up",
     "uptime": "100.00%",
@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 198,
-    "timeWeek": 198,
-    "timeMonth": 198,
-    "timeYear": 198,
+    "time": 252,
+    "timeDay": 252,
+    "timeWeek": 252,
+    "timeMonth": 252,
+    "timeYear": 252,
     "dailyMinutesDown": {}
   }
 ]
