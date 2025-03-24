@@ -12,7 +12,7 @@ status-website:
   name: Systemstatus von Südtiroler Volksbühne
   navbar:
     - title: Status
-      href: /
+      href: /upptime
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
