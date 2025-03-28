@@ -4,17 +4,19 @@
     "url": "https://www.suedtiroler-volksbuehne.de",
     "icon": "https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg",
     "slug": "suedtiroler-volksbuehne",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 278,
-    "timeDay": 258,
-    "timeWeek": 278,
-    "timeMonth": 278,
-    "timeYear": 278,
-    "dailyMinutesDown": {}
+    "time": 382,
+    "timeDay": 631,
+    "timeWeek": 382,
+    "timeMonth": 382,
+    "timeYear": 382,
+    "dailyMinutesDown": {
+      "2025-03-28": 0
+    }
   }
 ]
