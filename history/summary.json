@@ -4,7 +4,7 @@
     "url": "https://www.suedtiroler-volksbuehne.de",
     "icon": "https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg",
     "slug": "suedtiroler-volksbuehne",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 232,
     "timeYear": 271,
     "dailyMinutesDown": {
+      "2026-04-30": 0,
       "2025-11-18": 136
     }
   }
