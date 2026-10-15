@@ -6,6 +6,9 @@ sites:
   - name: 'Südtiroler Volksbühne'
     url: https://www.suedtiroler-volksbuehne.de
     icon: https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg
+  - name: 'Reservierungen'
+    url: https://reservierung.svbmuc.de
+    icon: https://www.suedtiroler-volksbuehne.de/_astro/favicon.hpQXAkAI.svg
 
 status-website:
   baseUrl: /upptime
